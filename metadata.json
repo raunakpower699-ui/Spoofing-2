@@ -1,0 +1,6 @@
+{
+  "name": "Raunak Exploits",
+  "description": "TurboX high-performance monster engine dashboard and hardware monitor for Vivo and iQOO devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

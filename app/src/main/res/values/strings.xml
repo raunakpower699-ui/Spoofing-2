@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Raunak Exploits</string>
+    <string name="service_title">Raunak Exploits - Monster Engine Active</string>
+    <string name="service_desc">Monster Core Engine Running | TurboX Active | BOOST Mode</string>
+    <string name="action_exit">EXIT</string>
+    <string name="brand_lock_title">Device Incompatible</string>
+    <string name="brand_lock_message">This app only works on Vivo / iQOO devices</string>
+    <string name="brand_lock_exit">Close App</string>
+    <string name="brand_lock_bypass">Bypass for Emulator / Test Mode</string>
+</resources>
